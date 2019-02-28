@@ -6,7 +6,7 @@ import tensorflow as tf
 import os
 import os.path
 
-
+#dsflkj
 class myReader(object):
     def __init__(self, width, height, channel):
         self.resize_width = width
